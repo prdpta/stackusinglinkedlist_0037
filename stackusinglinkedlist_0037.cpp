@@ -48,3 +48,5 @@ public:
         if (top == NULL) {
             cout << "List is empty." << endl;
         }
+        else {
+            Node* current = top;
